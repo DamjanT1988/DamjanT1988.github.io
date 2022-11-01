@@ -1,0 +1,90 @@
+﻿/*
+    Stilmall för Moment 1 - DT162G, JavaScript-baserad webbutveckling 
+    Fyll i egna CSS-regler här under för att snygga till webbsidan
+*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    line-height: 1.8em;
+    background-color: gray;
+}
+
+.container {
+    max-width: 600px;
+    width: 90%;
+    padding: 20px;
+    border-radius: 14px;
+    background-color: lightblue;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 2.75em;
+}
+
+p {
+    margin: 2px 0 2px 0;
+}
+
+thead td {
+    font-weight: 900;
+    background-color: blue;
+    color: yellow;
+    text-align: center;
+}
+
+footer {
+    margin-top: 2em;
+    font-size: 14px;
+    color: #666;
+    text-align: center;
+}
+
+thead td:nth-child(1) {
+    width: 25%;
+}
+
+thead td:nth-child(2) {
+    width: 65%;
+}
+
+td:nth-child(3) {
+    width: 10%;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #ccc;
+}
+tr:nth-child(odd) {
+    background-color: #eee;
+}
+
+table {
+    border-collapse: collapse;
+    line-height: 1.5em;
+}
+
+input {
+    font-size: 1.25em;
+}
+
+.kurser {
+    margin: 1em 0 1em 0;
+}
+
+@media only screen and (max-width: 600px) {
+    h1 {
+        font-size: 3em;
+    }
+
+    input {
+        font-size: 1.1em;
+    }
+
+    .kurser {
+        font-size: 0.75em;
+    }
+  }

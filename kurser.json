@@ -1,0 +1,69 @@
+﻿{
+  "information": [
+    {
+      "info":         "Mitt namn är Damjan Tosic medan smeknamnet är Daki. Just nu bedriver jag studier i webbutveckling vid MIUN. Datorer och internet har alltid varit mina intressen och nu uppfyller jag min dröm om att arbeta med det!"
+    }
+  ],
+  "kurser": [
+    {
+      "kurskod":      "DT057G",
+      "namn":         "Webbutveckling I",
+      "progression":  "A",
+      "kursplan":     "http://www.miun.se/utbildning/kurser/sok-kursplan/kursplan?kursplanid=15472"
+    },
+    {
+      "kurskod":      "DT084G",
+      "namn":         "Introduction till programmering i JavaScript",
+      "progression":  "A",
+      "kursplan":     "http://www.miun.se/utbildning/kurser/sok-kursplan/kursplan?kursplanid=15474"
+    },
+    {
+      "kurskod":      "DT200G",
+      "namn":         "Grafisk teknik för webb",
+      "progression":  "A",
+      "kursplan":     "http://www.miun.se/utbildning/kurser/sok-kursplan/kursplan?kursplanid=15474"
+    },
+    {
+      "kurskod":      "DT068G",
+      "namn":         "Webbanvändbarhet",
+      "progression":  "B",
+      "kursplan":     "http://www.miun.se/utbildning/kurser/sok-kursplan/kursplan?kursplanid=15474"
+    },
+    {
+      "kurskod":      "DT003G",
+      "namn":         "Databaser",
+      "progression":  "A",
+      "kursplan":     "http://www.miun.se/utbildning/kurser/sok-kursplan/kursplan?kursplanid=15474"
+    },
+    {
+      "kurskod":      "DT093G",
+      "namn":         "Webbutveckling II",
+      "progression":  "B",
+      "kursplan":     "http://www.miun.se/utbildning/kurser/sok-kursplan/kursplan?kursplanid=15474"
+    },
+    {
+      "kurskod":      "DT197G",
+      "namn":         "Webbdesign för CMS",
+      "progression":  "B",
+      "kursplan":     "http://www.miun.se/utbildning/kurser/sok-kursplan/kursplan?kursplanid=15474"
+    },
+    {
+      "kurskod":      "DT173G",
+      "namn":         "Webbutveckling III",
+      "progression":  "B",
+      "kursplan":     "http://www.miun.se/utbildning/kurser/sok-kursplan/kursplan?kursplanid=15474"
+    },
+    {
+      "kurskod":      "IG021G",
+      "namn":         "Projektledning",
+      "progression":  "A",
+      "kursplan":     "http://www.miun.se/utbildning/kurser/sok-kursplan/kursplan?kursplanid=15474"
+    },
+    {
+      "kurskod":      "DT193G",
+      "namn":         "Fullstack-utveckling med ramverk",
+      "progression":  "B",
+      "kursplan":     "http://www.miun.se/utbildning/kurser/sok-kursplan/kursplan?kursplanid=15474"
+    }
+  ]
+}
